@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.11.1](https://github.com/KaguyaJs/Yunzai-DF-Plugin/compare/yunzai-df-plugin-v2.11.0...yunzai-df-plugin-v2.11.1) (2026-07-31)
+
+
+### 🐛 Bug 修复
+
+* **poke:** 修复 Miao-Yunzai 日志不显示插件名，TRSS-Yunzai 额外显示插件名 ([c8f69fa](https://github.com/KaguyaJs/Yunzai-DF-Plugin/commit/c8f69fa8a091fc257b9ba0628d67cda274bba1bd))
+
 ## [2.11.0](https://github.com/KaguyaJs/Yunzai-DF-Plugin/compare/yunzai-df-plugin-v2.10.0...yunzai-df-plugin-v2.11.0) (2026-07-28)
 
 
